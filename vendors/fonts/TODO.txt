@@ -1,0 +1,6 @@
+sheetsngeekles.com > vendors > fonts
+
+need to download ---> ionicons.eot
+                 ---> ionicons.svg
+                 ---> ionicons.ttf
+                 ---> ionicons.woff
